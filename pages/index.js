@@ -11,9 +11,9 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="Didn't got time to update anything yet" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+            There are many secret subdomains though, try to find them!
         </p>
       </main>
 
